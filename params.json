@@ -93,7 +93,9 @@
       "clusterMode": "INHERIT"
     },
     "k8sCluster": {
-      "clusterMode": "INHERIT"
+      "clusterMode": "EXPLICIT_CLUSTER",
+      "clusterId": "sselle-eks",
+      "defaultClusterId": "sselle-eks"
     },
     "virtualWebAppBackendSettings": {
       "mode": "INHERIT",
@@ -175,6 +177,13 @@
     "displayedState": {
       "checks": []
     }
+  },
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "admin"
+    },
+    "lastModifiedOn": 1621029252459
   },
   "creationTag": {
     "versionNumber": 0,
