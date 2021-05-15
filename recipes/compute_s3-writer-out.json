@@ -7,7 +7,7 @@
       "envMode": "INHERIT"
     },
     "containerSelection": {
-      "containerMode": "NONE"
+      "containerMode": "INHERIT"
     },
     "skipPrerunValidate": false
   },
@@ -40,11 +40,11 @@
   },
   "labels": [],
   "versionTag": {
-    "versionNumber": 8,
+    "versionNumber": 9,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1621068987697
+    "lastModifiedOn": 1621070042098
   },
   "creationTag": {
     "versionNumber": 0,
