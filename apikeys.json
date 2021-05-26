@@ -1,0 +1,25 @@
+[
+  {
+    "execSQLLike": false,
+    "localDatasets": [],
+    "projectPrivileges": {
+      "admin": true,
+      "readProjectContent": true,
+      "writeProjectContent": false,
+      "exportDatasetsData": true,
+      "readDashboards": true,
+      "writeDashboards": false,
+      "moderateDashboards": false,
+      "runScenarios": false,
+      "manageDashboardAuthorizations": false,
+      "manageExposedElements": false,
+      "manageAdditionalDashboardUsers": false,
+      "executeApp": false
+    },
+    "id": "8j2hvCYFSkJzWu38",
+    "key": "Gbljk0suQAAjaygP5Dul0OaPnO1p93u8",
+    "label": "my-super-secret-key",
+    "description": "my-super-secret-description",
+    "createdOn": 1622041307839
+  }
+]
